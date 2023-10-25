@@ -1,0 +1,2 @@
+# templeteSteamlitWithNgrokOnColab
+colab上でgithubのStreamlitアプリを動かしてngrokで公開するためのテンプレート
