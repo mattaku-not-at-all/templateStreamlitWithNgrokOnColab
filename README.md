@@ -1,3 +1,3 @@
-# templeteSteamlitWithNgrokOnColab
+# templateStreamlitWithNgrokOnColab
 colab上でgithubのStreamlitアプリを動かしてngrokで公開するためのテンプレート
 動作確認は2023/10月です。
